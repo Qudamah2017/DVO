@@ -1,0 +1,15 @@
+{"btns": [
+            {
+            "id": "btn1",
+            "name": "Supermaket Simulation",
+            "value": "Supermaket",
+            "Settings": "Normal"
+	    },
+	    {
+            "id": "btn2",
+            "name": "Manchester Air Pollution Simulation",
+            "value": "ManchesterAirPollution",
+            "Settings": "Normal"
+	    }
+	]
+}
