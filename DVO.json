@@ -1,16 +1,24 @@
 {"btns": [
             {
             "name": "btn1",
-            "content": "Supermaket Simulation",
+            "content": "Supermaket"
             "value": "Supermaket",
             "margin": "32,427,0,0",
 	    "settings": "Normal"    
 	    },
 	    {
-            "id": "btn2",
-            "name": "Manchester Air Pollution Simulation",
-            "value": "ManchesterAirPollution",
-            "settings": "Normal"
+            "name": "btn2",
+            "content": "Manchester Air Pollution",
+            "value": "Supermaket",
+            "margin": "32,299,0,0",
+	    "settings": "Normal"    
+	    },
+	    {
+            "name": "btn3",
+            "content": "Flexible Manufacturing System",
+            "value": "FlexibleManufacturingSystem",
+            "margin": "32,555,0,0",
+	    "settings": "Normal"    
 	    }
 	]
 }
