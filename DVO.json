@@ -33,12 +33,12 @@
             "name": "btn7",
             "content": "Manchester in 1889",
             "value": "Manchester1889",
-            "margin": "0,427,0,0"},
+            "margin": "655,441,0,0"},
  	    {
             "name": "btn8",
             "content": "Goat Peak Landscape",
             "value": "GoatPeakLandscape",
-            "margin": "0,584,0,0"},
+            "margin": "655,584,0,0"},
 	    {
             "name": "btn9",
             "content": "Network Graph 1",
