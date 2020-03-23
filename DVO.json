@@ -1,7 +1,7 @@
 {"btns": [
             {
             "name": "btn1",
-            "content": "Supermaket"
+            "content": "Supermaket",
             "value": "Supermaket",
             "margin": "32,427,0,0",
 	    "settings": "Normal"    
