@@ -53,6 +53,11 @@
             "name": "btn11",
             "content": "Data Analytics",
             "value": "IVRTK_Demo",
-            "margin": "32,944,0,0"}
+            "margin": "32,944,0,0"},
+            {
+            "name": "btn12",
+            "content": "Workflow Data Analytics",
+            "value": "WorkflowDataAnalyticsVisualisation",
+            "margin": "32,1073,0,0"}
 	]
 }
